@@ -9,11 +9,10 @@ contract TokenTest is Test {
     Token t;
 
     function run() public {
-      vm.startBroadcast();
+        vm.startBroadcast();
 
         t = new Token();
 
         vm.stopBroadcast();
     }
-
 }
