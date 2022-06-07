@@ -2,6 +2,8 @@
 
 **Template repository for getting started quickly with Hardhat and Foundry in one project**
 
+Less boilerplate with support for forge scripting, bash scripts, prettier, and slither compatibility.
+
 ![Github Actions](https://github.com/devanonon/hardhat-foundry-template/workflows/test/badge.svg)
 
 ### Getting Started
